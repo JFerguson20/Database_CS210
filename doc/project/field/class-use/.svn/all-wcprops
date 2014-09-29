@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jfergus7/!svn/ver/77/Project/doc/project/field/class-use
+END
+AbstractField.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/AbstractField.html
+END
+CharField.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/CharField.html
+END
+BooleanField.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/BooleanField.html
+END
+VarcharField.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/VarcharField.html
+END
+DateField.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/DateField.html
+END
+IntegerField.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/IntegerField.html
+END
+RealField.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/jfergus7/!svn/ver/78/Project/doc/project/field/class-use/RealField.html
+END

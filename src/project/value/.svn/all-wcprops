@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jfergus7/!svn/ver/123/Project/src/project/value
+END
+AbstractValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jfergus7/!svn/ver/123/Project/src/project/value/AbstractValue.java
+END
+CharValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jfergus7/!svn/ver/101/Project/src/project/value/CharValue.java
+END
+BooleanValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jfergus7/!svn/ver/101/Project/src/project/value/BooleanValue.java
+END
+VarcharValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jfergus7/!svn/ver/101/Project/src/project/value/VarcharValue.java
+END
+DateValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jfergus7/!svn/ver/104/Project/src/project/value/DateValue.java
+END
+IntegerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jfergus7/!svn/ver/101/Project/src/project/value/IntegerValue.java
+END
+RealValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jfergus7/!svn/ver/104/Project/src/project/value/RealValue.java
+END
